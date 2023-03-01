@@ -1,0 +1,8 @@
+{
+    "name": "icwlnet/dcms",
+    "description": "Content Management - Website Builder",
+    "require": {
+        "php": ">=7.4",
+        "apache2": ">=2.4.55"
+    }
+}

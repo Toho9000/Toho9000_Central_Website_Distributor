@@ -1,0 +1,22 @@
+id,modulesID,Pre_FileName,FileName,ViewName
+1,1,pre_display.php,display.php,Text Content
+21,2,pre_login.php,login.php,Member Login
+31,3,pre_display.php,display.php,Show News Detail
+22,2,pre-register.php,register.php,Business Registration Page
+221,2,,biz_directory.php,Business Directory
+25,2,,member-home.php,Member Home
+222,2,pre-user-details.php,user-details.php,User Details
+223,2,pre_logout.php,logout.php,Logout
+224,2,pre-fpass.php,fpass.php,Forgot Password
+211,2,,tellfriend.php,Tell A Friend
+332,3,,view-news.php,Member View News
+333,3,,modify-news.php,Member Modify News
+334,3,,add-news.php,Add Member News
+335,3,,rss.php,RSS Output
+5551,555,pre-contact-form.php,contact-form.php,Contact Form
+601,600,,step-1.php,Step_1
+801,800,,404.php,404 Page Not Found
+41,4,pre_display.php,display.php,display site map
+602,600,pre_step-2.php,step-2.php,Step-2
+603,600,,step-3.php,Install Step 3
+604,600,,step-4.php,BCMS Install Step 4

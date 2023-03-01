@@ -1,0 +1,33 @@
+id,Name,Dir,Hidden,allow_sidebar
+1,1,SERVER,REMOTE_ADDR,127.0.0.1
+2,1,SERVER,HTTP_HOST,cwl.strangled.net
+6,Dual Diagnosis,dualdiagnosis_main,No,No
+7,dark-sunflower,dark-sunflower,No,No
+8,bcmsl,bcmsl,No,No
+9,InSense,InSense,No,No
+10,problog-10,problog-10,No,No
+11,ColdBlue,ColdBlue,No,No
+12,Black And Green,LoadFoO,No,No
+13,Transparent Blue,transparentia,No,No
+14,Greeny,metamorph_greeny,No,No
+15,Translucent Fluidity,Translucent_Fluidity,No,No
+5,blank,blank,No,No
+16,GCWD HomePage,gcwd,No,No
+17,GCWD Sub Pages,gcwd-sub,No,No
+18,CWLNet HomePage,cwlnet,No,No
+19,CWLNet Sub Pages,cwlnet-sub,No,No
+20,Bubble Lite,bubblelite,No,No
+21,True Church,true_church,No,Yes
+22,XML,xml,No,No
+23,Install,install,No,No
+24,GCWD clear,gcwd-clear,No,No
+25,Beautiful Night,beautiful-night,No,No
+26,Bright Side Of Life,bright-side-of-life-1.0,No,No
+27,Blue,blue,No,No
+28,Bubble,bubble,No,No
+29,Business Today,businesstoday,No,No
+30,Chess Piece,chesspiece-2,No,No
+31,City Nightlife,city-nightlife,No,No
+32,Cool Web,cool-web,No,No
+33,Corporate,corporate,No,No
+34,Darkness,darkness,No,No
