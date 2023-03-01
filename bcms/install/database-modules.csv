@@ -1,0 +1,9 @@
+id,Name,Dir,optional
+1,Text Content,text,No
+2,Member,member,Yes
+3,News,news,Yes
+555,Contact,contact,No
+560,Banners,banner,Yes
+600,install,install,Yes
+800,Website Error Codes,error_codes,Yes
+4,SiteMap,site_map,Yes

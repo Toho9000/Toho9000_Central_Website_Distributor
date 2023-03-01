@@ -1,0 +1,15 @@
+id,Name,Main_Url,ClientsID,ServerName,ServerAdmin,IP_Hostname
+0,Localhost Home,cwl.strangled.net,6,db-local.php,,
+1,WHM Reseller Account,icwl.me,7,db-icwl.php,,
+2,CPanel Cloud Server,ozychurch.com,8,db-w-d.php,sitemanage.info,
+3,CWL Wordpress Server,creativelogistics.site,6,wp-cwl.php,,
+4,Linode Dedicated VPS,vps.icwl.me,8,db-linode.php,green.sitemanage.info,170.187.149.251
+5,Digital Ocean,vps.web-dev.biz,8,db-do.php,blue.sitemanage.info,138.197.225.89
+6,InterServer,my.interserver.net,8,db-iserver.php,,
+7,Googiehost,cloud2.googiehost.com:2222,8,db-goog.php,,
+8,kamatera hosting,kamatera.com,8,db-kam.php,,
+10,Asura Reseller hosting,hostingdiscount.club,8,db-asur.php,yellow.sitemanage.info,199.195.250.19
+11,Asura Unlimited,ownpage.club,8,db-asur-da.php,red.sitemanage.info,
+12,IONOS Unlimited,i-n.club,4,db-asur.php,,199.195.250.19
+13,sitemanage.info,sitemanage.info,1,db-sm-w-d.php,sitemanage.info,50.116.93.232
+14,OVH VPS,vps-e57c7723.vps.ovh.ca,1,db-ovh-vps.php,sitemanage.info,139.99.170.124
