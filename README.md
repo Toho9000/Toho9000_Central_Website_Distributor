@@ -1,2 +1,2 @@
 # Central_Website_Distributor
-Central BCMS Full Install
+Toho900 Central Bubble Content Management System Full Local Install and Database.
